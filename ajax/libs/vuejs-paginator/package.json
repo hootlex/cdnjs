@@ -24,7 +24,7 @@
     "target": "git://github.com/hootlex/vuejs-paginator.git",
     "basePath": "dist",
     "files": [
-      "**/*.js"
+      "**/*"
     ]
   }
 }
